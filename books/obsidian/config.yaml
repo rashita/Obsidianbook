@@ -1,0 +1,9 @@
+title: "Obsidianを使い倒す"
+summary: "ローカルベースで使える手軽な個人情報管理ツールObsidian.mdの解説書です"
+topics: []
+published: true
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - thirdparty
+  - calenderplugin
