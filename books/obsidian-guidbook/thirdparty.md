@@ -10,7 +10,7 @@ Obsidianは、標準でいくつものプラグインが準備されており、
 
 その点を了承した上で、セーフモードを解除しましょう。
 
-![](screen001.png)
+![](https://i.gyazo.com/8e9b02dd973082972148672725430f9d.png)
 
 Settingsの「Third-party plugins」の項目にて、Safe modeはオフにできます（標準ではオンになっています）。
 
